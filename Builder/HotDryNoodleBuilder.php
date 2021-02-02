@@ -1,12 +1,12 @@
 <?php
 namespace Builder;
 /*
- * @Description: 热干面售卖构造器
+ * @Description: 热干面调料构造器
  * @Author: GabbbyMrH
  * @Email: gabbymrh@gmail.com
  * @Date: 2021-02-01 20:37:51
  * @LastEditors: GabbyMrH
- * @LastEditTime: 2021-02-02 10:07:27
+ * @LastEditTime: 2021-02-02 10:14:47
  */
 
 class HotDryNoodleBuilder

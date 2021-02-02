@@ -7,14 +7,14 @@ namespace Builder;
  * @Email: gabbymrh@gmail.com
  * @Date: 2021-02-02 09:56:55
  * @LastEditors: GabbyMrH
- * @LastEditTime: 2021-02-02 10:06:44
+ * @LastEditTime: 2021-02-02 10:15:04
  */
 
  class Store
  {
    public function __construct()
    {
-    // 实例化热干面构造器(热干面辅料操作台)
+    // 实例化热干面调料构造器(热干面辅料操作台)
     $hotDryAction = new HotDryNoodleBuilder();
     
     // 客户 A
