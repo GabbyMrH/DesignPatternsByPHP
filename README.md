@@ -4,6 +4,8 @@
 ## 一. 建造者模式
 > [跳转链接](https://github.com/GabbyMrH/DesignPatternsByPHP/tree/main/Builder)
 
+## 二. 简单工厂模式
+> [跳转链接](https://github.com/GabbyMrH/DesignPatternsByPHP/tree/main/Factory)
 
 
 #### 鸣谢
